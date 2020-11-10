@@ -5,7 +5,7 @@ public class file2 {
 
 
         System.out.println("Hello World!");
-
+// comment
         System.out.println("Its a beautiful day!");
     }
 }
